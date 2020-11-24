@@ -1,10 +1,10 @@
 ## User Dashboard
 
-![dashboard](https://github.com/LanreSam/Codify-Ninja/blob/main/images/codify-ninja.png)
+![dashboard](https://github.com/LanreSam/Codify-ninja/blob/master/images/codify-ninja.png)
 
 ## Latest Posts
 
-![posts](https://github.com/LanreSam/Codify-Ninja/blob/main/images/codify-ninja3.png)
+![posts](https://github.com/LanreSam/Codify-ninja/blob/master/images/codify-ninja3.png)
 <br/><br/> <br/><br/> <br/><br/> <hr/>
 
 
